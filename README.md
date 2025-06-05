@@ -10,8 +10,8 @@
 **Course Name:** Compiler Design  
 
 
-# 🔬 Lab 1
-
+# 🔬 Lab 1     
+Ans:   <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%201"> ⚡ ᴄʟɪᴄᴋ ʜᴇʀᴇ </a> <br> 
 ---
 
 ## 1. 📘 Introduction
@@ -152,7 +152,7 @@ You are highly encouraged to produce output exactly like the sample one.
 
 |
 
-
+Ans: ⚡  <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%201"> LAB 1</a> <br> 
 
 
 |
@@ -163,6 +163,8 @@ You are highly encouraged to produce output exactly like the sample one.
 
 # 🧩 Lab 2
 ---
+Ans:   <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%202"> ⚡ ᴄʟɪᴄᴋ ʜᴇʀᴇ </a> <br> 
+
 
 ## 1. 📘 Introduction
 
@@ -349,8 +351,11 @@ arguments : arguments COMMA logic_expression
 ```
 
 
+
+
 |
 
+Ans:   <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%202"> ⚡ LAB 2 </a> <br> 
 
 |
 
@@ -358,6 +363,8 @@ arguments : arguments COMMA logic_expression
 
 # 📘 Lab 3
 ---
+
+Ans:   <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%203"> ⚡ ᴄʟɪᴄᴋ ʜᴇʀᴇ </a> <br> 
 
 ---
 ## 1. Introduction
@@ -545,8 +552,8 @@ arguments: arguments COMMA logic_expression
     | logic_expression
     ;
 
-
-
+```
+Ans:   <a href="https://github.com/AnonXarkA/COMPILER-DESIGN-CSE420-BRACU/tree/main/LAB%202"> ⚡ LAB 3 </a> <br> 
 
 
 
